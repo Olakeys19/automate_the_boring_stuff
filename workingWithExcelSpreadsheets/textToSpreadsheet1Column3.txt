@@ -1,0 +1,6 @@
+Hello world!
+
+Cell: '415-555-9999 
+Work: 212-555-0000'
+re.compile('\d\D')
+The ADJECTIVE panda walked to the NOUN and then VERB. A nearby NOUN was 
